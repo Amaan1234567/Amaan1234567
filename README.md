@@ -1,36 +1,62 @@
-# Abdul Amaan
+<h2 align="left">Hi 👋! My name is Abdul Amaan and I'm a Senior Under Grad, from BMSCE</h2>
 
-**[LinkedIn](https://www.linkedin.com/in/abdul-amaan-160770224/)** • amaan.programmer1@gmail.com • +91 961994726
+###
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amaan1234567&style=flat-square&color=blue)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaan1234567&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaan1234567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-## Education
-**B.E, AI & ML,** BMS College of Engineering, Bengaluru, Karnataka  
-CGPA: 8.83 (Expected Graduation: June 2025)
+###
 
-## Experience
-**Summer Intern,** Sahaj.ai, Bengaluru, Karnataka (July 2024 – Present)
-- Developed a face recognition attendance system using Python, achieving 99% accuracy.
-- Created an LLM-based chatbot interface to convert user prompts into SQL queries.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
-## Projects
-- **Plant Disease Detection:** Developed a high-accuracy (96%) plant disease prediction model using a modified Tiny VGG CNN architecture. [GitHub](https://github.com/Amaan1234567/Plant-disease-detection)
-- **Plant Selling Website:** Built a full-stack e-commerce website for plant sales with a user-friendly interface and secure data management. [GitHub](https://github.com/Amaan1234567/WAD-project)
-- **Vanguard Robot:** Developed PyTorch-based ML for event detection in arenas for robot navigation, top 18 in the competition. [Event Detection](https://youtu.be/dgk_xaOlViE) | [Robot Navigation](https://youtu.be/6APTjBXlA08)
+###
 
-## Achievements
-- **Winners,** Impact AI Hackathon by Gradient (May 2024): Developed a computer vision system to detect bad posture using a webcam.
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdul-amaan-160770224/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## Skills
-- **Technical:** Python, C++, HTML, CSS, Bootstrap, MySQL, PyTorch
-- **Certifications:** Python For Data Science and Machine Learning Bootcamp (Udemy), Deep Learning (NPTEL)
-- **Languages:** English, Hindi, Kannada
+###
 
-## GitHub Stats
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan1234567&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan1234567&layout=compact&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Amaan1234567&theme=dark)
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110830860?v=4"  />
 
-## Profiles
-- **GitHub:** [Amaan1234567](https://github.com/Amaan1234567)
-- **LeetCode:** [Amaan1234567](https://leetcode.com/u/Amaan1234567/)
+###
+
+<img src="https://raw.githubusercontent.com/Amaan1234567/Amaan1234567/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Amaan1234567.Amaan1234567&left_color=deepskyblue&right_color=aquamarine"  />
+
+###
