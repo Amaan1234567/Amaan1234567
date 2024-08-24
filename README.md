@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdul-amaan-160770224/" target="_blank">
@@ -47,13 +46,13 @@
   </a>
 </div>
 
-###
+<table>
+  <tr>
+    <td><img height="150" src="https://avatars.githubusercontent.com/u/110830860?v=4" alt="Profile Picture" /></td>
+    <td><img src="https://raw.githubusercontent.com/Amaan1234567/Amaan1234567/output/snake.svg" alt="Snake animation" /></td>
+  </tr>
+</table>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110830860?v=4"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Amaan1234567/Amaan1234567/output/snake.svg" alt="Snake animation" />
 
 ###
 
