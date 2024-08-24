@@ -27,8 +27,9 @@ CGPA: 8.83 (Expected Graduation: June 2025)
 - **Languages:** English, Hindi, Kannada
 
 ## GitHub Stats
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan1234567&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan1234567&layout=compact&theme=radical)
+![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan1234567&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan1234567&layout=compact&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Amaan1234567&theme=dark)
 
 ## Profiles
 - **GitHub:** [Amaan1234567](https://github.com/Amaan1234567)
