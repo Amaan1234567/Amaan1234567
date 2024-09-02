@@ -48,7 +48,6 @@
 
 <table>
   <tr>
-    <td><img height="150" src="https://avatars.githubusercontent.com/u/110830860?v=4" alt="Profile Picture" /></td>
     <td><img src="https://raw.githubusercontent.com/Amaan1234567/Amaan1234567/output/snake.svg" alt="Snake animation" /></td>
   </tr>
 </table>
