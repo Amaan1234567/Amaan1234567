@@ -56,6 +56,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Amaan1234567.Amaan1234567&left_color=deepskyblue&right_color=aquamarine"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Amaan1234567.Amaan1234567&left_color=grey&right_color=black"  />
 
 ###
