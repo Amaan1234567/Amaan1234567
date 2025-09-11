@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdul Amaan and I'm a Senior Under Grad, from BMSCE</h2>
+<h2 align="left">Hi 👋! My name is Abdul Amaan and I'm a Graduate from BMSCE Currently working at IBM</h2>
 
 ###
 
